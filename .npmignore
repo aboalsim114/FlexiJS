@@ -1,0 +1,9 @@
+tests
+.babelrc
+.eslintrc
+.eslintrc.json
+.eslintrc.js
+.eslintrc.cjs
+.eslintrc.json5
+.eslintrc.yaml
+.eslintrc.yml
